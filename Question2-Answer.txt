@@ -1,0 +1,3 @@
+Question 2 :
+
+A greater number of hidden unit nodes results in a longer (slower) training period, while fewer hidden units provide shorter (faster) training, but at the cost of having fewer feature detectors. Too many hidden nodes in an ANN enable it to memorize the training data set, which produces poor generalization performance.
